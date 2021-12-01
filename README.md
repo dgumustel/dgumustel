@@ -12,5 +12,4 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about video game design for environmental education and outreach! 
 - 😄 Pronouns: she/her
 - :tada: Fun facts: I type 115 WPM and can solve a Rubik's cube in under a minute! 
-- :pencil: Check out my blog! https://oceandatascience.medium.com/
 - 📫 How to reach me: email me at degumustel@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/derya-gumustel/
