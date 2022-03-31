@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- :computer: I’m currently working on multi-year time-series analysis of ocean data at the University of Washington Applied Physics Lab, and blogging about ocean data science in my free time.
-- 🌱 I’m currently learning how to scale up my code to conduct multi-year analysis on data from the Ocean Observatories Initiative.
+- :computer: I’m currently looking for work as a data science and Python instructor or coach.
 - :raised_hands: I’m looking to collaborate on public education and outreach to teach people about oceanography and data science!
 - :thought_balloon: I’m looking for help with finding an audience for my work and writing.
 - 💬 Ask me about video game design for environmental education and outreach! 
