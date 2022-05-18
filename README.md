@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- :computer: I’m currently looking for work as a data science and Python instructor or coach.
+- :computer: I’m currently teaching a full-time data analytics bootcamp with General Assembly
 - :raised_hands: I’m looking to collaborate on public education and outreach to teach people about oceanography and data science!
 - :thought_balloon: I’m looking for help with finding an audience for my work and writing.
 - 💬 Ask me about video game design for environmental education and outreach! 
